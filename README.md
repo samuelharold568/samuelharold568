@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-<!--
-**samuelharold/samuelharold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+   Perkenalkan saya Samuel, saya senang melakukan banyak hal dibidang pengembangan website terutama pada sisi Front end, saat ini saya sedang mempelajari lebih jauh bahasa pemrograman JavaScript dan kedepannya saya berencana akan mempelajari React, dan Redux. sejauh ini saya telah menyelesaikan kelas <a href="https://www.dicoding.com/certificates/4EXGY08LGXRL">Belajar dasar pemrograman web</a> dan <a href="https://www.dicoding.com/certificates/4EXGY08LGXRL">Belajar membuat Front-end web pemula</a> di <a href="https://www.dicoding.com/">Dicoding academy</a>.
+</p>
 
-Here are some ideas to get you started:
+## terhubung dengan saya:smiley:   
+<a href="https://www.linkedin.com/in/vedant-jajoo-89a366171/">
+  <img align="left" alt="Samuel Harold Wiradhika_Linkedin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
