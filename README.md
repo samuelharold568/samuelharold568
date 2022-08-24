@@ -11,6 +11,6 @@
 <a href="https://dev.to/samuelharold">
    <img align="left" alt="Samuel Harold Wiradhika_DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg">
 </a>
-<a href="https://www.instagram.com/samuelharoldwiradhika/">
+<a href="https://www.instagram.com/harld568/?hl=id">
    <img align="left" alt="Samuel Harold Wiradhika_instagram" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg">
 </a>
