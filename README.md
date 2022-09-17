@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p>
-   Perkenalkan saya Samuel, saya senang melakukan banyak hal dibidang pengembangan website terutama pada sisi Front end, saat ini saya sedang mempelajari lebih jauh bahasa pemrograman JavaScript dan kedepannya saya berencana untuk terus meningkatkan kemampuan saya pada pengembangan Web terutama pada sisi server. sejauh ini saya telah menyelesaikan kelas <a href="https://www.dicoding.com/certificates/GRX5LLVJKP0M">Belajar membuat Front-End Web untuk Pemula</a> dan <a href="https://www.dicoding.com/certificates/MEPJE34KWX3V">Belajar membuat Aplikasi Web dengan React</a> di <a href="https://www.dicoding.com/">Dicoding academy</a>.
-   Saya berharap bisa terus bertumbuh🌱 dengan meningkatkan skill saya dan mempelajari teknologi baru yang terus berkembang.
+   Perkenalkan saya Samuel, saya senang melakukan banyak hal dibidang pengembangan website terutama pada sisi Front end, saat ini saya sedang memperdalam pemahaman saya pada bahasa pemrograman JavaScript dan kedepannya saya berencana untuk terus meningkatkan skill saya pada pengembangan Web terutama pada sisi server. sejauh ini saya telah menyelesaikan kelas <a href="https://www.dicoding.com/certificates/GRX5LLVJKP0M">Belajar membuat Front-End Web untuk Pemula</a> dan <a href="https://www.dicoding.com/certificates/MEPJE34KWX3V">Belajar membuat Aplikasi Web dengan React</a> di <a href="https://www.dicoding.com/">Dicoding academy</a>.
+   Saya berharap bisa terus bertumbuh🌱 dengan meningkatkan kemampuan saya dan terus mengupdate diri pada perkembangan teknologi yang pesat.
 </p>
 
 #### terhubung dengan saya:smiley:   
