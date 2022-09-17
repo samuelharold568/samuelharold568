@@ -2,7 +2,7 @@
 
 <p>
    I am Samuel, I enjoy doing many things in the field of website development, especially on the front end, currently I am deepening my understanding of the JavaScript programming language and in the future I plan to continue to improve my skills in Web development, especially on the server side. so far I have finished the class <a href="https://www.dicoding.com/certificates/GRX5LLVJKP0M">Learn to create Front-End Web for Beginners</a> and <a href="https://www.dicoding.com/certificates/MEPJE34KWX3V">Learn to build Web Apps with React</a> at <a href="https://www.dicoding.com/">Dicoding academy</a>.
-   I hope to condtinue to grow🌱 by improving my skills and continuously updating myself on rapid technological developments.
+   I hope to continue to grow🌱 by improving my skills and continuously updating myself on rapid technological developments.
 </p>
 
 #### Connect with me:smiley:   
